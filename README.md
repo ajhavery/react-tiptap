@@ -9,3 +9,5 @@
 5. yarn add react-icons
 
 # Update index.css with provided values
+
+<img width="575" alt="image" src="https://user-images.githubusercontent.com/1153078/185741924-ec348e11-1f70-4a6b-bcb4-945a8f3738b3.png">
